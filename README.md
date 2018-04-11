@@ -15,7 +15,7 @@ A simple Hexo template with great performance on different devices, ported from 
 Install theme and renderers:
 
 ```shell
-$ git clone https://github.com/tufu9441/maupassant-hexo.git themes/maupassant
+$ git clone https://github.com/cntoby/maupassant-hexo.git themes/maupassant
 $ npm install hexo-renderer-pug --save
 $ npm install hexo-renderer-sass --save
 ```
