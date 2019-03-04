@@ -1,5 +1,5 @@
 fancybox: true ## If you want to use fancybox please set the value to true.
-disqus: cntoby ## Your disqus_shortname, e.g. username
+disqus: ## Your disqus_shortname, e.g. username
 uyan: ## Your uyan_id. e.g. 1234567
 livere: ## Your livere data-uid, e.g. MTAyMC8zMDAxOC78NTgz
 changyan: ## Your changyan appid, e.g. cyrALsXc8
@@ -18,9 +18,9 @@ gitalk:
   client_secret:  ## GitHub client secret, e.g. ec2fb9054972c891289640354993b662f4cccc50
   admin:  ## Github repo owner and collaborators, only these guys can initialize github issues.
 valine: ## https://valine.js.org
-  enable: false ## If you want to use Valine comment system, please set the value to true.
-  appid: ## Your LeanCloud application App ID, e.g. pRBBL2JR4N7kLEGojrF0MsSs-gzGzoHsz
-  appkey: ## Your LeanCloud application App Key, e.g. tjczHpDfhjYDSYddzymYK1JJ
+  enable: true ## If you want to use Valine comment system, please set the value to true.
+  appid: hPI6qJNF47iB6VExH5KUHO8I-MdYXbMMI ## Your LeanCloud application App ID, e.g. pRBBL2JR4N7kLEGojrF0MsSs-gzGzoHsz
+  appkey: 8pdij7EH6XqgPYRwGFnaGUcu ## Your LeanCloud application App Key, e.g. tjczHpDfhjYDSYddzymYK1JJ
   notify: false ## Mail notifier, see https://github.com/xCss/Valine/wiki/Valine-评论系统中的邮件提醒设置
   verify: false ## Validation code.
   placeholder: Just so so ## Comment box placeholders.
